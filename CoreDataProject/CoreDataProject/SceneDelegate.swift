@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  Core Data
+//  CoreDataProject
 //
 //  Created by James Chun on 9/3/21.
 //
